@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.same-class {
+    background-color: rgb(255, 158, 158);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.unique-class {
+    font-size: 24px;
+}
+
+#id-1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#id-2 {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
