@@ -42,8 +42,8 @@ body {
   font-size: 14px;
 }
 
-/* */
-div.text {
+/* Type selector */
+div {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
